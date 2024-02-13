@@ -5,7 +5,7 @@
 
 <br>
 	
- <picture><img src="https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.webp" width="150px"></picture> Who am I?
+ <picture><img src="https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.webp" width="150px"></picture> About
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
 
