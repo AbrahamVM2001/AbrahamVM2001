@@ -15,8 +15,8 @@
 - :trophy: I won two third-place awards in robotics competitions in the minisumo and programming katatom categories.
 - :technologist: I love programming.
 - :nerd_face: I am a proactive person and I like to experiment with new languages or environments.
-- :man_health_worker: Currently, I am working as a Junior Full Stack Developer. [My CV](https://desarrolladorjrabraham.000webhostapp.com/assent/documentos/CV%20-%20ABRAHAM%20VERA%20MARTINEZ.pdf).
-- :boom: Visit my portfolio [My portfolio](https://desarrolladorjrabraham.000webhostapp.com/).
+- :man_health_worker: Currently, I am working as a Junior Full Stack Developer. [My CV](http://devabraham.com/).
+- :boom: Visit my portfolio [My portfolio](http://devabraham.com/).
 
 <br>
 
