@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abraham Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bloglenovo.es%2Fpara-registrar-todo-lo-que-pasa-en-el-universo-haria-falta-otro-universo%2F&psig=AOvVaw32dKOUus8TkmlqFWx35uht&ust=1713232925284000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC4npOQw4UDFQAAAAAdAAAAABAR" width="100%">
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bloglenovo.es%2Fpara-registrar-todo-lo-que-pasa-en-el-universo-haria-falta-otro-universo%2F&psig=AOvVaw32dKOUus8TkmlqFWx35uht&ust=1713232925284000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC4npOQw4UDFQAAAAAdAAAAABAR](https://timelinecovers.pro/facebook-cover/download/sci-fi-planet-rise-facebook-cover.jpg)" width="100%">
 </p>
 
 <br>
