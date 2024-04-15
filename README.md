@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Abraham Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<img src="![image](https://github.com/AbrahamVM2001/AbrahamVM2001/assets/88256421/ad28bd89-3ac5-4689-a240-bab540abeb94)
-" width="10px">
+	<img src="https://i.pinimg.com/474x/4b/6f/34/4b6f3419b53a2b99359b090567476cd6.jpg" width="10px">
 </p>
 
 <br>
