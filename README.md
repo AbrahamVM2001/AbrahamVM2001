@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abraham Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src=""></a>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fes%2FIWyn&psig=AOvVaw2oQ6QTu-7QATkcap6Rg9Km&ust=1713232597320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDAlvWOw4UDFQAAAAAdAAAAABAl">
 </p>
 
 <br>
