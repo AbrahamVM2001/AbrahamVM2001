@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abraham Vera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<img src="[https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyouexec.com%2Fpresentation-templates%2Fvideo-fondos-parte-6&psig=AOvVaw2oQ6QTu-7QATkcap6Rg9Km&ust=1713232597320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDAlvWOw4UDFQAAAAAdAAAAABAs)" width="150px">
+	<img src="[https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.webp](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyouexec.com%2Fpresentation-templates%2Fvideo-fondos-parte-6&psig=AOvVaw2oQ6QTu-7QATkcap6Rg9Km&ust=1713232597320000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDAlvWOw4UDFQAAAAAdAAAAABAs)" width="10px">
 </p>
 
 <br>
