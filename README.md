@@ -21,12 +21,8 @@
 <br>
 
 ### Frontend:
-![React](https://img.shields.io/badge/-React-000?&logo=React)&emsp;
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)&emsp;
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)&emsp;
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)&emsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)&emsp;
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)&emsp;
-![JS](https://img.shields.io/badge/-JS-000?&logo=Javascript)&emsp;
 
 ### Backend:
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)&emsp;
