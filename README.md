@@ -22,12 +22,11 @@
 
 ### Frontend:
 ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)&emsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)&emsp;
 
 ### Backend:
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)&emsp;
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)&emsp;
-![Php](https://img.shields.io/badge/-Php-000?&logo=Php)&emsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)&emsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=springboot)&emsp;
 
@@ -35,7 +34,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=Mysql)&emsp;
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=Sql)&emsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)&emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)&emsp;
 
 ### Operating Systems:
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)&emsp;
