@@ -4,6 +4,9 @@
 </p>
 
 <br>
+
+> .[!NOTE].
+> Aqui tienes una nota espacial
 	
  <picture><img src="https://i.gifer.com/origin/d8/d8f244271a7c56bc9fcb22f80505708c_w200.webp" width="150px"></picture><br> About me
 
