@@ -18,6 +18,7 @@
 ![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)&emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&emsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)&emsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)&emsp;
 
 ### Backend:
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)&emsp;
